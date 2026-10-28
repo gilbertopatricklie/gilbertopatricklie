@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend, AI/ML, DevOps, Scripting and Bash**
 
-- 👯 I’m looking to collaborate on **Backend development, AI development, DevOps projects**
+- 👯 I’m looking to collaborate on **Backend development, AI/ML apps development, DevOps projects**
 
 - 🤝 I’m looking for help with **Backend development, AI development, DevOps projects**
 
