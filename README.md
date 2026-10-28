@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ProHub](https://github.com/gilbertopatricklie/Prohub)
 
-- 🌱 I’m currently learning **Backend, AI/ML, DevOps**
+- 🌱 I’m currently learning **Backend, AI/ML, DevOps, Scripting and Bash**
 
 - 👯 I’m looking to collaborate on **Backend development, AI development, DevOps projects**
 
