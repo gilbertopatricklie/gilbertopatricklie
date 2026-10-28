@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Backend development, AI/ML apps development, DevOps projects**
 
-- 🤝 I’m looking for help with **Backend development, AI development, DevOps projects**
+- 🤝 I’m looking for help with **Backend development, AI/ML apps development, DevOps projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gilbertopatricklie](https://github.com/gilbertopatricklie)
 
