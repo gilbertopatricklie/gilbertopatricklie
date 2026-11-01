@@ -1,4 +1,4 @@
-<!-- ===== HEADER ===== --> <h1 align="center">Hi 👋, I'm Gilberto Patrick Lie</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Backend+%7C+AI%2FML+%7C+DevOps;I+love+learning+anything+IT-related" alt="Typing SVG" /> </p>
+<!-- ===== HEADER ===== --> <h1 align="center">Hi 👋, I'm Gilberto Patrick Lie</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate+from+Indonesia" alt="Typing SVG" /> </p>
 - 🔭 I’m currently working on [ProHub](https://github.com/gilbertopatricklie/Prohub)
 
 - 🌱 I’m currently learning **Backend, AI/ML, DevOps, Scripting and Bash**
