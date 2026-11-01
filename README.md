@@ -1,29 +1,32 @@
-<h1 align="center">Hi 👋, I'm Gilberto Patrick Lie</h1>
-<h3 align="center">A CompSci graduate from Indonesia</h3>
+<!-- ===== HEADER ===== --> <h1 align="center">Hi 👋, I'm Gilberto Patrick Lie</h1> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=CompSci+Graduate+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Backend+%7C+AI%2FML+%7C+DevOps;I+love+learning+anything+IT-related" alt="Typing SVG" /> </p> <p align="center"> <a href="https://linkedin.com/in/gilbertopatricklie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://instagram.com/gilberto.lie"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://github.com/gilbertopatricklie"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </p>
+👨‍💻 About Me
+🔭 Currently working on ProHub
+🌱 Currently learning Backend, AI/ML, DevOps, Scripting & Bash
+👯 Open to collaborating on Backend development, AI/ML apps, and DevOps projects
+🤝 Looking for help with Backend development, AI/ML apps, and DevOps projects
+💬 Ask me about Backend / AI / DevOps topics
+⚡ Fun fact: I like to learn anything IT-related, even the things I'll never use.
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on [ProHub](https://github.com/gilbertopatricklie/Prohub)
+Languages & Scripting
 
-- 🌱 I’m currently learning **Backend, AI/ML, DevOps, Scripting and Bash**
+<p> <img src="https://skillicons.dev/icons?i=py,go,js,bash&perline=8" alt="Languages" /> </p>
 
-- 👯 I’m looking to collaborate on **Backend development, AI/ML apps development, DevOps projects**
+AI / ML & Data
 
-- 🤝 I’m looking for help with **Backend development, AI/ML apps development, DevOps projects**
+<p> <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pandas&perline=8" alt="AI/ML and Data" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/gilbertopatricklie](https://github.com/gilbertopatricklie)
+Databases
 
-- 💬 Ask me about **Backend/AI/DevOps related topics**
+<p> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&perline=8" alt="Databases" /> </p>
 
-- 📫 How to reach me **www.linkedin.com/in/gilbertopatricklie**
+DevOps & Tools
 
-- 📄 Know about my experiences [https://github.com/gilbertopatricklie](https://github.com/gilbertopatricklie)
-
-- ⚡ Fun fact **I like to learn anything IT related, even the things i won't ever use.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gilbertopatricklie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gilbertopatricklie" height="30" width="40" /></a>
-<a href="https://instagram.com/gilberto.lie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gilberto.lie" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,grafana,git,postman,figma&perline=8" alt="DevOps and Tools" /> </p>
+📊 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=gilbertopatricklie&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertopatricklie&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> </p>
+📫 Let's Connect
+💼 LinkedIn: gilbertopatricklie
+📸 Instagram: @gilberto.lie
+📂 All my projects: github.com/gilbertopatricklie
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" /> </p>
