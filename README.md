@@ -16,8 +16,8 @@
 - 📄 Know about my experiences [https://github.com/gilbertopatricklie](https://github.com/gilbertopatricklie)
 
 - ⚡ Fun fact **I like to learn anything IT related, even the things i won't ever use.**
-🛠️ Tech Stack
 
+- 🛠️ Tech Stack
 Languages & Scripting
 
 <p> <img src="https://skillicons.dev/icons?i=py,go,js,bash&perline=8" alt="Languages" /> </p>
